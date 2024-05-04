@@ -6,3 +6,19 @@
 //
 
 #include <stdio.h>
+#include <iostream>
+using namespace std;
+
+
+void AddSum(int nCount, int nNum)
+{
+    int nDigit = 1;
+    int nTotal = 0;
+    
+    for(int nIdx = 0 ; nIdx < nCount ; nIdx++){
+        nDigit *= 10;
+        nTotal += (nNum % nDigit) / (nDigit / 10);
+    }
+    
+    cout << nTotal;
+}

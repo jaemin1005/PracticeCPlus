@@ -45,7 +45,6 @@
 		28EBBB462BE5E958009CD099 = {
 			isa = PBXGroup;
 			children = (
-				28EBBB522BE5E958009CD099 /* main.cpp */,
 				28EBBB5D2BE5F15B009CD099 /* Algorithm */,
 				28EBBB512BE5E958009CD099 /* PracticeCPlus */,
 				28EBBB502BE5E958009CD099 /* Products */,
@@ -63,6 +62,7 @@
 		28EBBB512BE5E958009CD099 /* PracticeCPlus */ = {
 			isa = PBXGroup;
 			children = (
+				28EBBB522BE5E958009CD099 /* main.cpp */,
 				28EBBB592BE5EA03009CD099 /* Sort.cpp */,
 				28EBBB5B2BE5F086009CD099 /* AddSum.cpp */,
 			);
