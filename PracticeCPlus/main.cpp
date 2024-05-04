@@ -9,7 +9,8 @@
 using namespace std;
 int* Sort(int nNum);
 void AddSum(int nCount, int nNum);
+void CalcAverage();
 
 int main(int argc, const char * argv[]) {
-    AddSum(5,54321);
+    CalcAverage();
 }

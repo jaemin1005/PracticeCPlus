@@ -10,6 +10,7 @@
 		28EBBB532BE5E958009CD099 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 28EBBB522BE5E958009CD099 /* main.cpp */; };
 		28EBBB5A2BE5EA03009CD099 /* Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 28EBBB592BE5EA03009CD099 /* Sort.cpp */; };
 		28EBBB5C2BE5F086009CD099 /* AddSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 28EBBB5B2BE5F086009CD099 /* AddSum.cpp */; };
+		28EBBB5F2BE5FC77009CD099 /* CalcAverage.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 28EBBB5E2BE5FC77009CD099 /* CalcAverage.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -29,6 +30,7 @@
 		28EBBB522BE5E958009CD099 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		28EBBB592BE5EA03009CD099 /* Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Sort.cpp; sourceTree = "<group>"; };
 		28EBBB5B2BE5F086009CD099 /* AddSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = AddSum.cpp; sourceTree = "<group>"; };
+		28EBBB5E2BE5FC77009CD099 /* CalcAverage.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CalcAverage.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -65,6 +67,7 @@
 				28EBBB522BE5E958009CD099 /* main.cpp */,
 				28EBBB592BE5EA03009CD099 /* Sort.cpp */,
 				28EBBB5B2BE5F086009CD099 /* AddSum.cpp */,
+				28EBBB5E2BE5FC77009CD099 /* CalcAverage.cpp */,
 			);
 			path = PracticeCPlus;
 			sourceTree = "<group>";
@@ -135,6 +138,7 @@
 			files = (
 				28EBBB532BE5E958009CD099 /* main.cpp in Sources */,
 				28EBBB5A2BE5EA03009CD099 /* Sort.cpp in Sources */,
+				28EBBB5F2BE5FC77009CD099 /* CalcAverage.cpp in Sources */,
 				28EBBB5C2BE5F086009CD099 /* AddSum.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
